@@ -1,0 +1,26 @@
+{
+  "name": "sfworkbook",
+  "version": "0.8.0",
+  "description": "generates xlsx workbook for given salesforce package",
+  "main": "workbook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterdedic/sfWorkbook.git"
+  },
+  "keywords": [
+    "salesforce",
+    "workbook"
+  ],
+  "author": "Peter Dedic <peter.dedic@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/peterdedic/sfWorkbook/issues"
+  },
+  "homepage": "https://github.com/peterdedic/sfWorkbook#readme",
+  "dependencies": {
+    "exceljs": "^1.7.0"
+  }
+}
